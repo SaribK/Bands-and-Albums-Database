@@ -1,0 +1,12 @@
+D:\Personal\Projects\LocalDB\bin\Debug\Database.mdf
+D:\Personal\Projects\LocalDB\bin\Debug\Database_log.ldf
+D:\Personal\Projects\LocalDB\bin\Debug\LocalDB.exe.config
+D:\Personal\Projects\LocalDB\bin\Debug\LocalDB.exe
+D:\Personal\Projects\LocalDB\bin\Debug\LocalDB.pdb
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.csprojAssemblyReference.cache
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.Form1.resources
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.Properties.Resources.resources
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.csproj.GenerateResource.cache
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.csproj.CoreCompileInputs.cache
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.exe
+D:\Personal\Projects\LocalDB\obj\Debug\LocalDB.pdb
